@@ -4,7 +4,6 @@
 
 This chapter introduces threat hunting as a proactive, human-driven security practice focused on identifying threats that may have evaded existing detection mechanisms. It explains the role of hypotheses, evidence, and structured hunting processes in uncovering suspicious activity and improving an organization's security posture.
 
-
 ## 2. Key Concepts
 
 ### 2.1 Threat Hunting
