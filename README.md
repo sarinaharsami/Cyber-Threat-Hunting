@@ -14,7 +14,7 @@ real-world security practices.
 
 | Chapter | Topic | Summary |
 |---|---|---|
-| 01 | Introduction to Threat Hunting | [Read Notes](./Chapter-01/README.md) |
+| 01 | Introduction to Threat Hunting | [Read Notes](./Chapter-01/CH1.md) |
 ---
 
 ## 🎯 Repository Goals
